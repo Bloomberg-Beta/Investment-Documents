@@ -4,6 +4,8 @@
 
 [We believe transparency is the most effective way to build trust](https://github.com/Bloomberg-Beta/Manual). It permeates every aspect of how we operate, including [how we think about our thesis](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-believe-about-the-future-of-work), [what we look for in a company](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-look-for-in-a-startup), and [how we make decisions](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide). We see publishing templates for our investment documents as a natural extension of this transparency. We hope they will give you a better sense of how we structure deals, which terms we care about, and a true-to-life taste of what it's like working with us.
 
+We highly recommend reading [our detailed breakdown](https://medium.com/@hjs/were-open-sourcing-our-investment-documents-f96b6e8c40e5) of these documents before diving in, which outlines how the terms in these documents came about, and why we think they help align the interest of entrepreneurs and investors.
+
 As with all content we publish, this repository is a living document, so please feel free to suggest any changes via a pull request!
 
 ### What documents are in this repo?
