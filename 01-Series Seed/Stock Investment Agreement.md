@@ -16,7 +16,7 @@ The parties agree as follows:
 
 ### 1. OVERVIEW DEFINITIONS.
 
-“**Agreement Date**” means ___________, 2018.
+“**Agreement Date**” means ___________, 2019.
 
 “**Company**” means [name of Company].
 
@@ -28,7 +28,7 @@ The parties agree as follows:
 
 “**State of Incorporation**” means Delaware.
 
-“**Stock Plan**” means the [ ____________ 2018 Stock Option and Grant Plan].
+“**Stock Plan**” means the [ ____________ 2019 Stock Option and Grant Plan].
 
 ### 2. BOARD COMPOSITION DEFINITIONS.
 
@@ -272,7 +272,7 @@ IN WITNESS WHEREOF, the parties hereto have executed this Agreement as of the da
 
 PURCHASERS:
 
-Name: BLOOMBERG BETA 2016 L.P.
+Name: BLOOMBERG BETA 2019 L.P.
 
 By: ______________
 
