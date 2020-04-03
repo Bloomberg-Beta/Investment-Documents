@@ -13,7 +13,7 @@
 
 4. This Amended and Restated Certificate of Incorporation, which restates and integrates and further amends the provisions of this corporation’s Certificate of Incorporation, has been duly adopted in accordance with Sections 242 and 245 of the General Corporation Law.
 
-IN WITNESS WHEREOF, this Amended and Restated Certificate of Incorporation has been executed by a duly authorized officer of this corporation on this ___ day of ___________, 2018.
+IN WITNESS WHEREOF, this Amended and Restated Certificate of Incorporation has been executed by a duly authorized officer of this corporation on this ___ day of ___________, [YEAR].
 
 By:	___________ 
 Name: ___________ 
