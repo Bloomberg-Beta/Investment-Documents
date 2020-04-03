@@ -1,6 +1,6 @@
 # NOTE PURCHASE AGREEMENT
 
-**THIS NOTE PURCHASE AGREEMENT** (“*Agreement*”) is made as of __________, 2018, by and among __________, Inc., a Delaware corporation (the “*Company*”), and the lenders (each individually a “*Lender*,” and collectively the “*Lenders*”) named on the Schedule of Lenders attached hereto (the “*Schedule of Lenders*”). Capitalized terms not otherwise defined in this Agreement shall have the meanings ascribed to them in *Section 1* below.
+**THIS NOTE PURCHASE AGREEMENT** (“*Agreement*”) is made as of __________, by and among __________, Inc., a Delaware corporation (the “*Company*”), and the lenders (each individually a “*Lender*,” and collectively the “*Lenders*”) named on the Schedule of Lenders attached hereto (the “*Schedule of Lenders*”). Capitalized terms not otherwise defined in this Agreement shall have the meanings ascribed to them in *Section 1* below.
 
 **WHEREAS**, each of the Lenders intends to provide certain Consideration to the Company as described for each Lender on the Schedule of Lenders; and
 
@@ -76,7 +76,7 @@
 
 **3.1 Initial Closing.** The initial closing (the “*Initial Closing*”) of the purchase of the Notes in return for the Consideration paid by each Lender shall be held remotely via exchange of documents and signatures at 10:00 a.m. local time on _________, 2018 or at such other time and place as shall be mutually agreed upon orally or in writing by the Company and Lenders purchasing a majority in interest of the aggregate principal amount of the Notes to be sold. At the Initial Closing, each Lender shall deliver the Consideration to the Company and the Company shall deliver to each Lender one or more executed Notes in return for the respective Consideration provided to the Company.
 
-**3.2 Subsequent Closing.** In any subsequent closing (each, a “*Subsequent Closing*”), the Company may sell additional Notes subject to the terms of this Agreement to any Lender as it shall select, provided that the aggregate amount of Consideration received by the Company pursuant to this Agreement does not exceed $___________. Any subsequent purchasers of Notes shall become a party to, and shall be entitled to receive Notes in accordance with, this Agreement. Each Subsequent Closing shall take place at such locations and at such times as shall be mutually agreed upon orally or in writing by the Company and Lenders purchasing a majority in interest of the aggregate principal amount of the Notes to be sold at such Subsequent Closing, *provided, however*, that in no event shall any Subsequent Closing occur later than _____, 2018.
+**3.2 Subsequent Closing.** In any subsequent closing (each, a “*Subsequent Closing*”), the Company may sell additional Notes subject to the terms of this Agreement to any Lender as it shall select, provided that the aggregate amount of Consideration received by the Company pursuant to this Agreement does not exceed $___________. Any subsequent purchasers of Notes shall become a party to, and shall be entitled to receive Notes in accordance with, this Agreement. Each Subsequent Closing shall take place at such locations and at such times as shall be mutually agreed upon orally or in writing by the Company and Lenders purchasing a majority in interest of the aggregate principal amount of the Notes to be sold at such Subsequent Closing, *provided, however*, that in no event shall any Subsequent Closing occur later than _________.
 
 ### 4. Representations and Warranties of the Company.
 
@@ -227,7 +227,7 @@ Title: ______________
 
 IN WITNESS WHEREOF, the parties have executed this Agreement as of the date first above written.
 
-LENDER: BLOOMBERG BETA 2016 L.P.
+LENDER: BLOOMBERG BETA 2019 L.P.
 
 By: _________________
 
