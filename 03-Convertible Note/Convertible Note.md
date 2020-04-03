@@ -4,10 +4,10 @@ THIS CONVERTIBLE PROMISSORY NOTE AND THE SECURITIES ISSUABLE UPON CONVERSION HER
 
 # CONVERTIBLE PROMISSORY NOTE
 
-Date of Issuance: _____________, 2018   
+Date of Issuance: _____________   
 $[250,000.00]
 
-FOR VALUE RECEIVED, ______________, Inc., a Delaware corporation (the “*Company*”), hereby promises to pay Bloomberg Beta 2016 L.P. (the “*Lender*”), the principal sum of $[250,000.00], together with interest thereon from the date of this Note.  Interest shall accrue at a rate of seven percent (7%) per annum, compounded annually computed on the basis of the actual number of days elapsed and a year of 365 days.  Unless earlier converted into Conversion Shares pursuant to *Section 2.2* of that certain Note Purchase Agreement dated ____________, 2018 among the Company, Lender and certain other investors (the “*Purchase Agreement*”), the principal and accrued interest shall be due and payable by the Company on demand at any time after two (2) years after the date of issuance of this Note (the “*Maturity Date*”).
+FOR VALUE RECEIVED, ______________, Inc., a Delaware corporation (the “*Company*”), hereby promises to pay Bloomberg Beta 2019 L.P. (the “*Lender*”), the principal sum of $[250,000.00], together with interest thereon from the date of this Note.  Interest shall accrue at a rate of seven percent (7%) per annum, compounded annually computed on the basis of the actual number of days elapsed and a year of 365 days.  Unless earlier converted into Conversion Shares pursuant to *Section 2.2* of that certain Note Purchase Agreement dated ____________, 2018 among the Company, Lender and certain other investors (the “*Purchase Agreement*”), the principal and accrued interest shall be due and payable by the Company on demand at any time after two (2) years after the date of issuance of this Note (the “*Maturity Date*”).
 
 This Note is one of a series of Notes issued pursuant to the Purchase Agreement, and capitalized terms not defined herein shall have the meaning set forth in the Purchase Agreement.
 
