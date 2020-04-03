@@ -1,6 +1,6 @@
 ## TERMS FOR CONVERTIBLE PROMISSORY NOTE FINANCING OF ____________, INC.
 
-___________, 2018
+___________, [year]
 
 The following is a summary of the principal terms with respect to the proposed convertible promissory note financing of ___________, Inc., a Delaware corporation (the “*Company*”). Except for the section entitled “Binding Terms,” this summary of terms does not constitute a legally binding obligation. The parties intend to enter into a legally binding obligation only pursuant to definitive agreements to be negotiated and executed by the parties.
 
@@ -46,7 +46,7 @@ Name: _____________________
 Title: _____________________  
 Date: _____________________
 
-***BLOOMBERG BETA 2016 L.P.*** 
+***BLOOMBERG BETA 2019 L.P.*** 
 
 BY: _____________________  
 Name: _____________________  
