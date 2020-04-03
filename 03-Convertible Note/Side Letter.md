@@ -1,9 +1,9 @@
 _______________, INC.  
 [Address]
 
-___________ ___, 2018
+___________ ___, [year]
 
-Bloomberg Beta 2016 L.P.  
+Bloomberg Beta 2019 L.P.  
 140 New Montgomery Street, Suite 2200  
 San Francisco, CA  94105  
 Attention: _______________
@@ -12,7 +12,7 @@ Attention: _______________
 
 Ladies and Gentlemen:
 
-This letter (the “*Agreement*”) will confirm our agreement that Bloomberg Beta 2016 L.P. (the “*Investor*”) shall be entitled to the following contractual pro rata, information and MFN rights in respect of __________, Inc. a Delaware corporation (the “Company”), effective and contingent upon its purchase of a convertible promissory note of the Company (the “Note”) pursuant to that certain Note Purchase Agreement dated on or about __________, 2017 (the “*Note Purchase Agreement*”).  Capitalized terms used herein and not defined shall have the meanings given to them in the Note.
+This letter (the “*Agreement*”) will confirm our agreement that Bloomberg Beta 2016 L.P. (the “*Investor*”) shall be entitled to the following contractual pro rata, information and MFN rights in respect of __________, Inc. a Delaware corporation (the “Company”), effective and contingent upon its purchase of a convertible promissory note of the Company (the “Note”) pursuant to that certain Note Purchase Agreement dated on or about __________, (the “*Note Purchase Agreement*”).  Capitalized terms used herein and not defined shall have the meanings given to them in the Note.
 
 1. Subject to the terms and conditions specified in this Agreement, the Company hereby grants to the Investor a right to purchase its Pro Rata Portion (as defined below) of the equity securities, or instruments convertible into or exercisable or exchangeable for equity securities (the “*Equity Securities*”), issued by the Company in an Equity Financing (as defined below) at the price and on the terms such shares are offered to other investors in such Equity Financing (the "*Pro Rata Right*"). The Company shall give Investor a written notice of its bona fide intention to issue such Equity Securities, describing the type of Equity Securities and the price and the general terms upon which the Company proposes to issue such Equity Securities.  Investor shall have ten (10) days from the date such notice is effective, to agree in writing to purchase such Investor’s Pro Rata Portion of such Equity Securities. Such purchase shall be completed at the same closing as that of any third party purchasers or at an additional closing thereunder and shall be subject to the Investor signing any purchase and other documents signed by other investors in the Equity Financing.
 
@@ -52,7 +52,7 @@ Title: ______________
 
 ACKNOWLEDGED AND AGREED:
 
-Investor: BLOOMBERG BETA 2016 L.P.
+Investor: BLOOMBERG BETA 2019 L.P.
 
 By:	______________  
 [______________]  
