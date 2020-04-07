@@ -196,7 +196,7 @@ Notwithstanding the provisions of Sections 5.1(a) and (b), no such registration 
 
 (f) no Stockholder that is not an employee of the Company shall be required to agree to (i) any restrictive covenant regarding competition, solicitation or restrictions on future investments or (ii) any release of claims other than those arising solely in such Stockholder’s capacity as a stockholder of the Company.
 
-(g) The Stockholder and its affiliates shall not be required to amend, extend or terminate any contractual or other relationship with the Company, the acquirer or their respective affiliates, except that the Stockholder may be required to agree to terminate the investment related documents between the Company and the Stockholder, and/or other stockholders of the Company.
+(g) the Stockholder and its affiliates will not be required to amend, extend or terminate any contractual or other relationship with the Company, the acquirer or their respective affiliates, except that the Stockholder may be required to agree to terminate the investment related documents between or among such Stockholder, the Company, and/or other stockholders of the Company.
 
 ### 6. PARTICIPATION RIGHT.
 
