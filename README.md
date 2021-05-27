@@ -59,7 +59,7 @@ It’s worth noting that many investment firms and law firms prefer to use their
 
 In almost every deal, founders face the choice of which investment instrument to use. [Others](https://avc.com/2017/03/convertible-and-safe-notes/) have [written](https://www.saastr.com/an-insiders-guide-to-convertible-debt-vs-equity/) at length on the differences between equity and notes (or SAFEs); we believe it’s ultimately up to the company to decide what works best. The [rights we want](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#rights-we-want) are the same for all of our documents, so we keep their terms as similar to each other as possible. We’re happy to use whichever investment type the founders prefer.
 
-As a rule of thumb, we prefer equity because:
+That said, all things being equal we prefer equity because:
 
 * **Founders and investors know how much of the company they own.** We like the transparency and security of both parties knowing their respective ownership at the time of investment, without the “surprise” dilution that often comes when notes convert. This is particularly important when convertible securities are included in the pre-money valuation. (For a detailed breakdown of how this problem can trip up founders and investors, see the “Series Seed Documents” section of this post.)
 
