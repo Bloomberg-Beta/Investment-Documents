@@ -1,30 +1,5 @@
 # Bloomberg Beta Investment Documents
 
-### Why have we published our investment documents?
-
-[We believe transparency is the most effective way to build trust](https://github.com/Bloomberg-Beta/Manual). It permeates every aspect of how we operate, including [how we think about our thesis](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-believe-about-the-future-of-work), [what we look for in a company](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-look-for-in-a-startup), and [how we make decisions](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide). We see publishing templates for our investment documents as a natural extension of this transparency. We hope they will give you a better sense of how we structure deals, which terms we care about, and a true-to-life taste of what it's like working with us.
-
-We highly recommend reading our detailed breakdown (below) of these documents before diving in, which outlines how the terms in these documents came about, and why we think they help align the interest of entrepreneurs and investors.
-
-As with all content we publish, this repository is a living document, so please feel free to suggest any changes via a pull request!
-
-### What documents are in this repo?
-
-#### Series Seed
-- [Restated Certificate of Incorporation](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/01-Series%20Seed/Restated%20Certificate%20of%20Incorporation.md)
-- [Stock Investment Agreement](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/01-Series%20Seed/Stock%20Investment%20Agreement.md)
-- [Term Sheet](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/01-Series%20Seed/Term%20Sheet.md)
-
-#### Simple Agreement for Future Equity (SAFE)
-- [Side Letter](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/02-SAFE/Side%20Letter.md)
-
-#### Convertible Note
-- [Convertible Note](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/03-Convertible%20Note/Convertible%20Note.md)
-- [Note Purchase Agreement](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/03-Convertible%20Note/Note%20Purchase%20Agreement.md)
-- [Term Sheet](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/03-Convertible%20Note/Term%20Sheet.md)
-- [Side Letter](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/03-Convertible%20Note/Side%20Letter.md) (to accompany note documents that do not follow our template)
-
-
 ## Why We've Published Our Investment Documents 
 
 *Note to the reader: This blog post assumes some understanding of venture finance. If terms like “preferred stock” and “convertible debt” are new to you, we’d suggest reading a few primers first. For the definitive work on how VCs structure investments, we recommend [Venture Deals](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754/) by Brad Feld and Jason Mendelson. Y Combinator also has an easy-to-digest [guide](https://blog.ycombinator.com/how-to-raise-a-seed-round/) on raising a Seed Round.*
@@ -49,7 +24,7 @@ We stand on the shoulders of giants. We want to thank the organizations which ha
 
 * Our equity templates are based on [Fenwick’s Series Seed documents](http://www.seriesseed.com/) which have been openly distributed for almost a decade. ([Cooley](https://github.com/CooleyLLP/seriesseed) has also contributed their own version.)
 
-* Our SAFE side letter accompanies Y Combinator’s updated [SAFE documents](https://www.ycombinator.com/documents/). YC’s influential investment documents have [continued to evolve](https://blog.ycombinator.com/new-standard-deal/), and we share their commitment to explain the structure behind our investments.
+* Our SAFE side letter accompanies Y Combinator’s updated [SAFE documents](https://www.ycombinator.com/documents/). YC’s influential investment documents have [continued to evolve](https://blog.ycombinator.com/new-standard-deal/), and we share their commitment to explain the structure behind our investments. 
 
 * The National Venture Capital Association (NVCA) has published [its forms](https://nvca.org/resources/model-legal-documents/) since 2003. These documents are a great reference, and many of them serve as a useful standard in negotiations. However for the seed-stage deals where we invest, we find that a lighter-weight template is more appropriate.
 
@@ -67,9 +42,11 @@ That said, all things being equal we prefer equity because:
 
 * **The company will end up issuing equity later anyway**. It’s no longer the case that an equity financing is much slower (or more expensive) than issuing convertible notes. By issuing equity immediately, founders avoid kicking the legal can down the road and having a greater total cost of investment from a two-step deal.
 
+* **Tax advantages through the qualified small business (QSB) stock gain exclusion (Section 1202)**. Section 1202 [provides investors an opportunity](https://rsmus.com/what-we-do/services/tax/federal-tax/corporate-tax-services/understanding-the-qualified-small-business-stock-gain-exclusion.html) to exclude some or all of the gain realized from the sale of QSB stock held for more than five years. To qualify for the this exlusion, an “interest” in a C corporation must be “stock”—SAFEs don't qualify. While this tax advantage benefits us as investors, it doesn't have any benefit to founders. 
+
 Nevertheless, there are some benefits to SAFEs and convertible notes:
 
-* **The founders maintain more control.** We are fans of founder control. We generally [avoid taking board seats](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#control), and prefer to be the folks founders have on speed dial if they ever need to talk through a problem. SAFEs and notes come with fewer strings attached.
+* **The founders maintain more control (until the SAFE is converted).** We are fans of founder control. We generally [avoid taking board seats](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#control), and prefer to be the folks founders have on speed dial if they ever need to talk through a problem. SAFEs and notes come with fewer strings attached.
 
 * **Increased flexibility in raising more before an initial equity offering.** [High resolution fundraising](http://www.paulgraham.com/hiresfund.html) means that companies can raise smaller sums of money at various points along the growth curve. It’s often easier to add another note to the cap table than to issue another round of priced equity. However, it’s worth pointing out that when companies raise notes at multiple valuations, later investors may include the shares from previous notes when calculating the company’s note conversion price (see a similar issue in “The Convertible Note Shuffle” example below).
 
@@ -147,7 +124,7 @@ ICOs and issuances of cryptocurrencies are a new and [often](https://www.coindes
 
 ### SAFE Side Letter
 
-We’ve included a side letter with practically all of the SAFEs we’ve signed. The same terms apply to all convertible notes we issue.
+We’ve included a side letter with practically all of the SAFEs we’ve signed. The same terms apply to all convertible notes we issue. That said, when we're a small minority investor, especially what we'd consider when we're writing a ["flag check,"](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#flag) **we default to the standard YC side letter**.
 
 #### Include pro rata rights on future convertible securities
 
@@ -202,3 +179,29 @@ Ultimately these agreements revolve around [trust](https://also.roybahat.com/the
 **Update (Apr ‘20): **To keep things simple in the event of an exit, we’ve added an increasingly common [clause](https://github.com/Bloomberg-Beta/Investment-Documents/commit/c44f4726250e670dfa0e5506b5310beff2abe88e#diff-8f5253228faeb380ed086de5823b2482) to our Series Seed documents which makes clear that Bloomberg Beta and its affiliates (e.g. Bloomberg LP itself) don’t need to change any existing contracts with the company, the acquirer, or their affiliates if those contracts are unrelated to the investment.*
 
 *Thanks to Harley Sugarman for the original version of this post* 
+
+
+## Our Investment Documents 
+
+[We believe transparency is the most effective way to build trust](https://github.com/Bloomberg-Beta/Manual). It permeates every aspect of how we operate, including [how we think about our thesis](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-believe-about-the-future-of-work), [what we look for in a company](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-look-for-in-a-startup), and [how we make decisions](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide). We see publishing templates for our investment documents as a natural extension of this transparency. We hope they will give you a better sense of how we structure deals, which terms we care about, and a true-to-life taste of what it's like working with us.
+
+We highly recommend reading our detailed breakdown (above) of these documents before diving in, which outlines how the terms in these documents came about, and why we think they help align the interest of entrepreneurs and investors.
+
+As with all content we publish, this repository is a living document, so please feel free to suggest any changes via a pull request!
+
+### What documents are in this repo?
+
+#### Series Seed
+- [Restated Certificate of Incorporation](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/01-Series%20Seed/Restated%20Certificate%20of%20Incorporation.md)
+- [Stock Investment Agreement](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/01-Series%20Seed/Stock%20Investment%20Agreement.md)
+- [Term Sheet](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/01-Series%20Seed/Term%20Sheet.md)
+
+#### Simple Agreement for Future Equity (SAFE)
+- [Side Letter](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/02-SAFE/Side%20Letter.md)
+
+#### Convertible Note
+- [Convertible Note](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/03-Convertible%20Note/Convertible%20Note.md)
+- [Note Purchase Agreement](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/03-Convertible%20Note/Note%20Purchase%20Agreement.md)
+- [Term Sheet](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/03-Convertible%20Note/Term%20Sheet.md)
+- [Side Letter](https://github.com/Bloomberg-Beta/Investment-Documents/blob/master/03-Convertible%20Note/Side%20Letter.md) (to accompany note documents that do not follow our template)
+ 
