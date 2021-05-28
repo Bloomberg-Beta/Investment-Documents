@@ -1,12 +1,14 @@
 # Bloomberg Beta Investment Documents
 
-## Why We've Published Our Investment Documents 
+## Why we've published our investment documents
 
 *Note to the reader: This blog post assumes some understanding of venture finance. If terms like “preferred stock” and “convertible debt” are new to you, we’d suggest reading a few primers first. For the definitive work on how VCs structure investments, we recommend [Venture Deals](https://www.amazon.com/Venture-Deals-Smarter-Lawyer-Capitalist/dp/1119259754/) by Brad Feld and Jason Mendelson. Y Combinator also has an easy-to-digest [guide](https://blog.ycombinator.com/how-to-raise-a-seed-round/) on raising a Seed Round.*
 
 Trust is essential to supporting founders, who put it all on the line — and we believe transparency creates fertile soil for trust. It’s why we put our [operating manual online](http://www.bloombergbeta.com), and it’s also why we’ve decided to publishthe documents we use as templates for our Series Seed and Convertible Note investments, as well as our side letters for Convertible Notes and Simple Agreements for Future Equity (SAFEs).
 
-We want founders to know what to expect when they decide to work with us. [What terms we care about, and what terms we don’t.](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#the-deal-terms) We want negotiation to be quick so founders can get back to building a company. We want to avoid wasting time negotiating points that are irrelevant in success and useless in failure. We also believe founders must understand every word of the contracts on which they build their business. We hope our explanations help — and that these templates snap us all to a useful grid.
+Transparency permeates every aspect of how we operate, including [how we think about our focus on the future of work](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-believe-about-the-future-of-work), [what we look for in a startup](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-look-for-in-a-startup), and [how we make decisions](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide). 
+
+We see publishing templates for our investment documents as a natural extension of this transparency. We hope they will give you a better sense of how we structure deals, [which terms we care about]((https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#the-deal-terms), and a true-to-life taste of what it's like working with us. We want negotiation to be quick so founders can get back to building a company. We want to avoid wasting time negotiating points that are irrelevant in success and useless in failure. We also believe founders must understand every word of the contracts on which they build their business. We hope our explanations help — and that these templates snap us all to a useful grid.
 
 In this post, we’ll share our thoughts on:
 
@@ -18,19 +20,19 @@ In this post, we’ll share our thoughts on:
 
 * Clarifying common misunderstandings about pro rata rights.
 
-### Prior Art
+### Prior art
 
 We stand on the shoulders of giants. We want to thank the organizations which have done our industry a service by creating (and publishing) the starting versions of these legal documents:
 
-* Our equity templates are based on [Fenwick’s Series Seed documents](http://www.seriesseed.com/) which have been openly distributed for almost a decade. ([Cooley](https://github.com/CooleyLLP/seriesseed) has also contributed their own version.)
+* Our equity templates are based on [Fenwick’s Series Seed documents](http://www.seriesseed.com/) which have been openly distributed for years. ([Cooley](https://github.com/CooleyLLP/seriesseed) has also contributed their own version.)
 
-* Our SAFE side letter accompanies Y Combinator’s updated [SAFE documents](https://www.ycombinator.com/documents/). YC’s influential investment documents have [continued to evolve](https://blog.ycombinator.com/new-standard-deal/), and we share their commitment to explain the structure behind our investments. 
+* Our SAFE side letter accompanies Y Combinator’s updated [SAFE documents](https://www.ycombinator.com/documents/). YC’s investment documents have [continued to evolve](https://blog.ycombinator.com/new-standard-deal/), and we share their commitment to explain the structure behind our investments. 
 
 * The National Venture Capital Association (NVCA) has published [its forms](https://nvca.org/resources/model-legal-documents/) since 2003. These documents are a great reference, and many of them serve as a useful standard in negotiations. However for the seed-stage deals where we invest, we find that a lighter-weight template is more appropriate.
 
 It’s worth noting that many investment firms and law firms prefer to use their own versions of these documents. This can make closing a deal faster for investors (since they are already familiar with the terms), though diligent founders should ask what special terms a VC wants and why.
 
-### Which Type of Investment is Right for Me?
+### Which type of investment is right for me?
 
 In almost every deal, founders face the choice of which investment instrument to use. [Others](https://avc.com/2017/03/convertible-and-safe-notes/) have [written](https://www.saastr.com/an-insiders-guide-to-convertible-debt-vs-equity/) at length on the differences between equity and notes (or SAFEs); we believe it’s ultimately up to the company to decide what works best. The [rights we want](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#rights-we-want) are the same for all of our documents, so we keep their terms as similar to each other as possible. We’re happy to use whichever investment type the founders prefer.
 
@@ -42,21 +44,21 @@ That said, all things being equal we prefer equity because:
 
 * **The company will end up issuing equity later anyway**. It’s no longer the case that an equity financing is much slower (or more expensive) than issuing convertible notes. By issuing equity immediately, founders avoid kicking the legal can down the road and having a greater total cost of investment from a two-step deal.
 
-* **Tax advantages through the qualified small business (QSB) stock gain exclusion (Section 1202)**. Section 1202 [provides investors an opportunity](https://rsmus.com/what-we-do/services/tax/federal-tax/corporate-tax-services/understanding-the-qualified-small-business-stock-gain-exclusion.html) to exclude some or all of the gain realized from the sale of QSB stock held for more than five years. To qualify for the this exlusion, an “interest” in a C corporation must be “stock”—SAFEs don't qualify. While this tax advantage benefits us as investors, it doesn't have any benefit to founders. 
+* **Tax advantages through the Qualified Small Business Stock (QSBS) gain exclusion**. Section 1202 of the Internal Revenue Code [provides investors an opportunity](https://rsmus.com/what-we-do/services/tax/federal-tax/corporate-tax-services/understanding-the-qualified-small-business-stock-gain-exclusion.html) to avoid tax on some or all of the gain realized from the sale of some startup equity held for more than five years. To qualify for this exlusion, an “interest” in a C corporation must be “stock” — many lawyers believe SAFEs don't qualify. (And while this tax advantage benefits us as investors, it has no direct benefit to founders — and also no cost.)
 
 Nevertheless, there are some benefits to SAFEs and convertible notes:
 
-* **The founders maintain more control (until the SAFE is converted).** We are fans of founder control. We generally [avoid taking board seats](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#control), and prefer to be the folks founders have on speed dial if they ever need to talk through a problem. SAFEs and notes come with fewer strings attached.
+* **The founders maintain more control (until the SAFE converts).** We're fans of founder control. We generally [avoid taking board seats](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#control), and prefer to be the folks founders have on speed dial if they ever need to talk through a problem. SAFEs and notes come with fewer strings attached, though when they convert into equity later then they can come with whatever governance provisions (rights of approval, etc.) that equity includes.
 
-* **Increased flexibility in raising more before an initial equity offering.** [High resolution fundraising](http://www.paulgraham.com/hiresfund.html) means that companies can raise smaller sums of money at various points along the growth curve. It’s often easier to add another note to the cap table than to issue another round of priced equity. However, it’s worth pointing out that when companies raise notes at multiple valuations, later investors may include the shares from previous notes when calculating the company’s note conversion price (see a similar issue in “The Convertible Note Shuffle” example below).
+* **Increased flexibility in raising more before an initial equity offering.** [High resolution fundraising](http://www.paulgraham.com/hiresfund.html) means that companies can raise smaller sums of money at various points along the way. It’s often easier to add another note to the cap table than to issue another round of priced equity. However, it’s worth pointing out that when companies raise notes at multiple valuations, later investors may include the shares from previous notes when calculating the company’s valuation — the note conversion price (see a similar issue in “The Convertible Note Shuffle” example below).
 
-#### Our thoughts on “SAFEs vs Notes”
+#### Our thoughts on “SAFEs vs. Notes”
 
-We’re also agnostic on whether founders should choose to raise using SAFEs or convertible notes. In fact over the last 18 months, the distribution of our investments between SAFEs and notes has been almost exactly equal. Many investors already have their own templates for convertible notes, so they can often be the fastest way for companies to get from a [handshake](https://www.ycombinator.com/handshake/) to a financing.
+We’re also agnostic on whether founders should choose to raise using SAFEs or convertible notes. The distribution of our investments between SAFEs and notes has been almost exactly equal. Many investors already have their own templates for convertible notes, so they can often be the fastest way for companies to get from a [handshake](https://www.ycombinator.com/handshake/) to a financing.
 
 That said, SAFEs have taken a positive step towards standardizing startup fundraising. They address many of the issues associated with convertible notes (e.g., the [“liquidation preference overhang”](http://siliconhillslawyer.com/2015/04/29/capped-convertible-notes-liquidation-overhang/)). What’s more, since a SAFE is not, technically, debt (it’s convertible equity), founders don’t need to worry about paying interest or maturity dates.
 
-However, standard SAFEs leave out the full pro rata and information rights we care about (even with Y Combinator’s [newly-issued side letter](https://d1l6icgp8w0hse.cloudfront.net/assets/ycdc/Pro%20Rata%20Side%20Letter-9b769a6a724da0c40e6649df8c774f49cc20dafe7247cc366ce4b98b4c2a3510.docx)). Therefore, we typically issue our own side letter along with any SAFE we sign. For companies that use their own convertible note documents, we often issue a similar side letter.
+However, standard SAFEs leave out the full pro rata and information rights we care about (even with Y Combinator’s [newly-issued side letter](https://d1l6icgp8w0hse.cloudfront.net/assets/ycdc/Pro%20Rata%20Side%20Letter-9b769a6a724da0c40e6649df8c774f49cc20dafe7247cc366ce4b98b4c2a3510.docx)). Therefore, we typically issue our own side letter along with any SAFE we sign (unless it's a small, "flag" investment, in which case we use the Y Combinator side letter). For companies that use their own convertible note documents, we often issue a similar side letter.
 
 ### Series Seed Documents
 
@@ -124,7 +126,7 @@ ICOs and issuances of cryptocurrencies are a new and [often](https://www.coindes
 
 ### SAFE Side Letter
 
-We’ve included a side letter with practically all of the SAFEs we’ve signed. The same terms apply to all convertible notes we issue. That said, when we're a small minority investor, especially what we'd consider when we're writing a ["flag check,"](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#flag) **we default to the standard YC side letter**.
+We’ve included a side letter with practically all of the SAFEs we’ve signed. The same terms apply to all convertible notes we issue. That said, when we're a small minority investor, especially what we'd consider when we're writing a ["flag check,"](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#flag) we default to the standard YC side letter to keep things simple.
 
 #### Include pro rata rights on future convertible securities
 
@@ -154,7 +156,7 @@ Bloomberg Beta’s SAFE side letter addresses this issue by giving SAFE holders 
 
 #### Add most-favored-nation protection
 
-Our fund is set up so that [any one of us](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide) is empowered to take risks fast and early. As a result, we are often the first institutional money invested in a company. To keep a level playing field for anyone investing at the same stage as us, our side letter gives us the right to any more favorable terms offered to another investor.
+Our fund is set up so that [any one of us](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide) is empowered to take risks fast and early. As a result, we are often the first institutional money invested in a company. To keep a level playing field for anyone investing at the same stage as us, our side letter gives us the right to any more favorable terms offered to a later investor.
 
 #### Provide basic information rights
 
@@ -178,12 +180,8 @@ Ultimately these agreements revolve around [trust](https://also.roybahat.com/the
 
 **Update (Apr ‘20): **To keep things simple in the event of an exit, we’ve added an increasingly common [clause](https://github.com/Bloomberg-Beta/Investment-Documents/commit/c44f4726250e670dfa0e5506b5310beff2abe88e#diff-8f5253228faeb380ed086de5823b2482) to our Series Seed documents which makes clear that Bloomberg Beta and its affiliates (e.g. Bloomberg LP itself) don’t need to change any existing contracts with the company, the acquirer, or their affiliates if those contracts are unrelated to the investment.*
 
-*Thanks to Harley Sugarman for the original version of this post* 
-
 
 ## Our Investment Documents 
-
-[We believe transparency is the most effective way to build trust](https://github.com/Bloomberg-Beta/Manual). It permeates every aspect of how we operate, including [how we think about our thesis](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-believe-about-the-future-of-work), [what we look for in a company](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#what-we-look-for-in-a-startup), and [how we make decisions](https://github.com/Bloomberg-Beta/Manual/blob/master/1%20-%20Manual.md#how-we-decide). We see publishing templates for our investment documents as a natural extension of this transparency. We hope they will give you a better sense of how we structure deals, which terms we care about, and a true-to-life taste of what it's like working with us.
 
 We highly recommend reading our detailed breakdown (above) of these documents before diving in, which outlines how the terms in these documents came about, and why we think they help align the interest of entrepreneurs and investors.
 
