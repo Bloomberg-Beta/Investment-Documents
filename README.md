@@ -168,6 +168,10 @@ YC’s SAFE does not include a minimum amount the company must raise in order to
 
 Although this kind of insignificant raise is rare (we’ve only seen a handful of examples), we include a minimum financing threshold as protection to cover all notes and SAFEs we buy.
 
+#### Provide major investor rights 
+
+While many companies elect not to implement a major investor clause, we add language to ensure we maintain majority investor rights in the next equity financing in the instances they do. 
+
 #### Require investor approval to issue cryptocurrencies
 
 As with our Series Seed documents, we ask for a protective clause requiring founders to ask for investor approval if their company issues any token (or the rights to a future token) after we’ve invested.
