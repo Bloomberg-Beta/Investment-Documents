@@ -3,7 +3,7 @@
 
 ___________ ____, ____
 
-Bloomberg Beta 2019 L.P.  
+Bloomberg Beta 2022 L.P.  
 140 New Montgomery Street  
 Suite 2200  
 San Francisco, CA  94105  
@@ -56,7 +56,7 @@ ACKNOWLEDGED AND AGREED:
 
 Investor:
 
-BLOOMBERG BETA 2019 L.P.
+BLOOMBERG BETA 2022 L.P.
 
 By:	____________________  
 [____________________]  
