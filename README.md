@@ -130,7 +130,7 @@ We’ve included a side letter with practically all of the SAFEs we’ve signed.
 
 #### Include pro rata rights on future convertible securities
 
-Pro rata rights give investors the ability to maintain their ownership stake by investing in a startup’s future fundraising rounds. As investors, we see these rights as a way of continuing to support our founders, and increasing our financial stake in investments we believe have [outlier potential](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md#reasons-to-believe-a-startup-is-a-potential-outlier). The challenge is that SAFE holders get pro rata rights only in the round *after* they become preferred stockholders of the company. Y Combinator’s new side letter grants these rights in the equity financing when they convert, which is a step in the right direction, but SAFE holders still get diluted when companies issue SAFEs or convertible notes before the next equity round. We’ve even seen companies raise SAFEs on terms closer to a Series A (e.g., a $5M raise on a $35M valuation cap).
+Pro rata rights give investors the ability to maintain their ownership stake by investing in a startup’s future fundraising rounds. As investors, we see these rights as a way of continuing to support our founders, and increasing our financial stake in investments we believe have [outlier potential](https://github.com/Bloomberg-Beta/Manual/blob/master/3%20-%20Criteria%20for%20investing.md#reasons-to-believe-a-startup-is-a-potential-outlier). 
 
 For example, imagine we make the very first investment in BetaCo using a $1M SAFE on a $10M post-money cap (with a target ownership of 10%). The initial cap table now looks like this:
 
@@ -140,9 +140,9 @@ After launching, the company raises an additional $2M SAFE from other investors 
 
 ![](https://cdn-images-1.medium.com/max/4300/1*8AUuxd6oKwCK1H_bomGXGA.png)
 
-Once the product gets traction, the company completes its first equity financing at a $25M pre-money valuation. The challenge is that we (as investors holding a SAFE at a $10M cap) do not have pro rata rights to maintain our 10% ownership in the SAFE raised at the $15M cap. By the time the Series A is raised at a $25M pre-money valuation, and both tranches of SAFEs convert, we will find our ownership lower than our target 10%.
+The standard YC "post-money" SAFE innoculates Bloomberg Beta against dilution from the second SAFE, so their as-converted percentage remains 10% despite the second SAFE. 
 
-Bloomberg Beta’s SAFE side letter addresses this issue by giving SAFE holders the right to purchase its pro rata portion of any instruments convertible into equity securities (to cover both SAFEs and convertible notes).
+Once the product gets traction, the company completes its first equity financing at a $25M pre-money valuation.  Bloomberg Beta’s SAFE side letter gives SAFE holders the right to purchase its pro rata portion of the equity financing, which in this case would be 10%. This allows Bloomberg Beta to retain a 10% stake in the company.
 ####  **The flavors of pro rata…**
   
 *There are a variety of ways investors define pro rata rights, which can make it hard for a founder to know exactly what they are signing away. Many of these definitions revolve around what to include when calculating the overall value (“share capitalization”) of the company (the denominator when calculating pro rata share) — the larger the capitalization, the smaller the pro rata percentage. (The numerator is the number of as-converted shares that the investor owns in the company.) We’ve listed a few of the most common definitions below:*
