@@ -19,7 +19,7 @@ This letter (the “*Agreement*”) will confirm our agreement that Bloomberg Be
  
 2. "*Equity Financing*" shall mean a sale by the Company of Equity Securities, not including any equity issuance made primarily for non-financing purposes, as determined by the Company in its reasonable discretion.
 
-3. The Investor's "*Pro Rata Portion*" shall mean no less than ___ percent.
+3. The Investor's "*Pro Rata Portion*" shall mean no less than the ratio of (x) the number of shares of Capital Stock issuable from the conversion of the SAFE and any other simple agreements for future equity or convertible securities issued by the Company to the Investor to (y) the Company Capitalization immediately prior to the applicable Equity Financing.
 
 4. The Company shall deliver to the Investor the following (the “*Information Rights*”):
 
