@@ -2,7 +2,7 @@
 [Address] 
 ___________ ____, ____
 
-Bloomberg Beta 2022 L.P.
+Bloomberg Beta 2025 L.P.
 140 New Montgomery Street
 Suite 2200
 San Francisco, CA  94105
@@ -12,7 +12,7 @@ Re:	**Pro Rata, Information, MFN and Other Rights**
 
 Dear ____,
 
-This letter (the “Agreement”) will confirm our agreement that Bloomberg Beta 2022 L.P. (the “Investor”) shall be entitled to the following contractual pro rata, information, MFN and other rights in respect of [Company], a Delaware corporation (the “Company”), effective and contingent upon its purchase of a simple agreement for future equity with a “Post-Money Valuation Cap” of the Company, dated on or about _____________, 2025 (the “SAFE”).  Capitalized terms used herein and not defined shall have the meanings given to them in the SAFE.
+This letter (the “Agreement”) will confirm our agreement that Bloomberg Beta 2025 L.P. (the “Investor”) shall be entitled to the following contractual pro rata, information, MFN and other rights in respect of [Company], a Delaware corporation (the “Company”), effective and contingent upon its purchase of a simple agreement for future equity with a “Post-Money Valuation Cap” of the Company, dated on or about _____________, 2025 (the “SAFE”).  Capitalized terms used herein and not defined shall have the meanings given to them in the SAFE.
 
 1. Pro Rata Right.  The Investor shall have the right to purchase its “pro rata share” of Standard Preferred Stock being sold in the Equity Financing (the “Pro Rata Right”).  “Pro rata share” for purposes of this Pro Rata Right is the ratio of (x) the number of shares of Capital Stock issued from the conversion of all of the Investor’s SAFEs with a “Post-Money Valuation Cap” to (y) the Company Capitalization.
 
@@ -46,7 +46,7 @@ ACKNOWLEDGED AND AGREED:
 
 Investor:
 
-BLOOMBERG BETA 2022 L.P.
+BLOOMBERG BETA 2025 L.P.
 
 By:	____________________  
 [____________________]  
