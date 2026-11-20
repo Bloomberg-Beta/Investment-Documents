@@ -20,7 +20,7 @@ The following is a summary of the principal terms with respect to the proposed S
 
 **Voting Rights**: Votes together with the Common Stock on all matters on an as-converted basis.  Approval of a majority of the Preferred Stock required to (i) adversely change rights of the Preferred Stock; (ii) change the authorized number of shares; (iii) authorize a new series of Preferred Stock having rights senior to or on parity with the Preferred Stock; (iv) redeem or repurchase any shares (other than pursuant to employee or consultant agreements); (v) declare or pay any dividend; (vi) change the number of directors; (vii) liquidate or dissolve, including any change of control; or (viii) sell, issue, sponsor, create or distribute any digital tokens, blockchain-based assets, cryptocurrency or any other digital assets, including through a Simple Agreement for Future Tokens or other agreement, pre-sale, initial coin offering, token distribution event or crowdfunding.
 
-**Documentation**: Documents will be based substantially on the Series Seed Preferred Stock documents published at [www.seriesseed.com](www.seriesseed.com), with the modifications set forth in this Term Sheet.
+**Documentation**: Documents will be based substantially on the Series Seed Preferred Stock documents published at [www.seriesseed.com](https://www.seriesseed.com), with the modifications set forth in this Term Sheet.
 
 **Financial Information**: Purchasers who have invested at least $____________ (“*Major Purchasers*”) will receive standard information and inspection rights and management rights letter.
 
